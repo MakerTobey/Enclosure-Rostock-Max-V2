@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="docubricks.xsl"?>
+<docubricks>
+  <physical_part id="686920999">
+    <description>M6 brass instert, unheaded, external diameter 8.5mm, body length 12.7mm</description>
+    <supplier>onecall farnell</supplier>
+    <supplier_part_num>2474925</supplier_part_num>
+    <manufacturer_part_num />
+    <url>http://onecall.farnell.com/tr-fastenings/m6-uhbrhesf/brass-insert-unheaded-m6/dp/2474925</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="405409125">
+    <description>M3 brass full nut</description>
+    <supplier>onecall farnell</supplier>
+    <supplier_part_num>FN00748</supplier_part_num>
+    <manufacturer_part_num />
+    <url>http://onecall.farnell.com/unbranded/m3-brass-full-nut/m3-brass-full-nut/dp/FN00748</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="24263995">
+    <description>Steel parallel dowel pin, 4x32mm</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>270-603</supplier_part_num>
+    <manufacturer_part_num />
+    <url>http://uk.rs-online.com/web/p/dowel-pins/0270603/?searchTerm=Steel+parallel+dowel+pin+4x32mm&amp;relevancy-data=636F3D3126696E3D4931384E4C446573635461786F6E6F6D794272616E645365617263685465726D32266C753D656E266D6D3D6D617463687061727469616C6D617826706D3D5E5B5C707B4C7D5C707B4E647D5C707B5A737D2D2C2F255C2E5D2B2426706F3D373426736E3D592673743D4B4559574F52445F4D554C54495F414C5048415F4E554D455249432673633D592677633D4E4F4E45267573743D537465656C20706172616C6C656C20646F77656C2070696E20347833326D6D26</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="2075081577">
+    <description>M3 brass instert, unheaded, external diameter 4.4mm, body length 5.8mm</description>
+    <supplier>onecall farnell</supplier>
+    <supplier_part_num>2474921</supplier_part_num>
+    <manufacturer_part_num />
+    <url>http://onecall.farnell.com/tr-fastenings/m3-uhbrhesf/brass-insert-unheaded-m3/dp/2474921?ost=M3+brass+instert%2C+unheaded</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1125468525">
+    <description>M6 screw, 10-16mm, any head (10mm, cheese, slotted)</description>
+    <supplier>onecall farnell</supplier>
+    <supplier_part_num>FN00808</supplier_part_num>
+    <manufacturer_part_num />
+    <url>http://onecall.farnell.com/unbranded/m6x10-pan-slot-stain/m6x10-pan-slot-stainless-screws/dp/FN00808</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="256151276">
+    <description>M3 screw, 10mm, any head (cheese, slotted)</description>
+    <supplier>onecall farnell</supplier>
+    <supplier_part_num>1419292</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="727618408">
+    <description>disk magnets 10x3mm</description>
+    <supplier>onecall farnell</supplier>
+    <supplier_part_num>TL16160</supplier_part_num>
+    <manufacturer_part_num />
+    <url>http://onecall.farnell.com/eclipse-magnetics/n812/disc-magnet-neodymium-10x3mm-pk/dp/TL16160</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1667243737">
+    <description>Bottom Bracket Print</description>
+    <supplier>Oosnest (UK)</supplier>
+    <supplier_part_num>PLAFILAMENT1751KG white</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - Bottom Bracket.stl" />
+      <file url="./././././usdata/2015-10-20_164115.png" />
+      <file url="./././././usdata/2015-10-20_164141.png" />
+      <file url="./././././usdata/2015-10-20_164212.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1336854021">
+    <description>Top Bracket Print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - Top Bracket.stl" />
+      <file url="./././././usdata/Top Bracket (3).png" />
+      <file url="./././././usdata/Top Bracket (1).png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="500541211">
+    <description>Hinge left print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - hinge left.stl" />
+      <file url="./././././usdata/2015-10-20_165153.png" />
+      <file url="./././././usdata/2015-10-20_164951.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="2092747198">
+    <description>Hinge right print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - hinge right.stl" />
+      <file url="./././././usdata/0-2015-10-20_164951.png" />
+      <file url="./././././usdata/0-2015-10-20_165153.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="433441006">
+    <description>Hinge strain ease print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - strain relief.stl" />
+      <file url="./././././usdata/1-2015-10-20_165153.png" />
+      <file url="./././././usdata/1-2015-10-20_164951.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="508013976">
+    <description>Door Knob Print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - magnetic grip.stl" />
+      <file url="./././././usdata/2015-10-20_165625.png" />
+      <file url="./././././usdata/2015-10-20_165746.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1226458112">
+    <description>Door counter magnet holder print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - counter magnet holder.stl" />
+      <file url="./././././usdata/0-2015-10-20_165625.png" />
+      <file url="./././././usdata/0-2015-10-20_165746.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="141642772">
+    <description>Door fixing washer print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - washer.stl" />
+      <file url="./././././usdata/1-2015-10-20_165625.png" />
+      <file url="./././././usdata/1-2015-10-20_165746.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="330203536">
+    <description>Test part heat insert M6 print</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - Test print threaded inserts.stl" />
+      <file url="./././././usdata/0-Rostock Max V2 Enclosure - Test print threaded inserts.stl" />
+      <file url="./././././usdata/2015-10-20_164309.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="255411926">
+    <description>Side Panels plain, laser</description>
+    <supplier>ENGINEERING &amp; DESIGN PLASTICS LTD</supplier>
+    <supplier_part_num>custom acrylic sheets, 4mm</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/panels_plain.dxf" />
+      <file url="./././././usdata/panels_plain.svg" />
+      <file url="./././././usdata/panels_master.png" />
+      <file url="./././././usdata/panels_master.svg" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1098057383">
+    <description>Washers M6 print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - M6 washer central.stl" />
+      <file url="./././././usdata/Rostock Max V2 Enclosure - M6 washer side.stl" />
+      <file url="./././././usdata/2015-10-20_164350.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="798614183">
+    <description>Stopper for Bottom Bracket print</description>
+    <supplier>RS components UK</supplier>
+    <supplier_part_num>832-0315</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Rostock Max V2 Enclosure - Stopper.stl" />
+      <file url="./././././usdata/0-2015-10-20_164212.png" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="492165908">
+    <description>Side Panels door and engraving, laser</description>
+    <supplier>ENGINEERING &amp; DESIGN PLASTICS LTD</supplier>
+    <supplier_part_num>custom acrylic sheets, 4mm</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/0-panels_master.svg" />
+      <file url="./././././usdata/panels_master_all.png" />
+      <file url="./././././usdata/panels_door_and_text.svg" />
+      <file url="./././././usdata/panels_door_and_text3.dxf" />
+      <file url="./././././usdata/1-panels_master.svg" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="829127372">
+    <description>Side Panels door and spare holes, laser</description>
+    <supplier>ENGINEERING &amp; DESIGN PLASTICS LTD</supplier>
+    <supplier_part_num>custom acrylic sheets, 4mm</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/panels_door_and_spare_holes.svg" />
+      <file url="./././././usdata/panels_door_and_spare_holes.dxf" />
+      <file url="./././././usdata/0-panels_master.png" />
+      <file url="./././././usdata/2-panels_master.svg" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="297624449">
+    <description>Patent High Temperature modeling apparatus US 6722872 B1</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="./././././usdata/Patent High Temperature modeling apparatus US 6722872 B1.pdf" />
+    </media>
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1101652874">
+    <description>M3 screw, 10-14mm, any head (10mm, cheese, slotted)</description>
+    <supplier>onecall farnell</supplier>
+    <supplier_part_num>1419292</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <brick id="93391732">
+    <name>Enclosure for the Rostock Max V2 3D-Printer</name>
+    <abstract>Acrylic enclosure for the delta 3d-printer model Rostock Max V2 with two doors, 3D printed hinges and magnetic door snappers.</abstract>
+    <long_description>This is a documentation to build a DIY enclosure for the 3D printer model Rostock Max V2 that is part of the RepRap family of 3d printers and sold by SeeMeCNC and through various resellers. Enclosures are typically self-built, because a USA patent (attached) seems to be an obstacle for most providers to sell them as standard accessory. This project uses PLA and ABS prints with the printer itself, laser cut acrylic sheets and a few metric of-the-shelf components only. Enclosures are desirable to improve the quality of especially ABS prints by increasing the temperature of the print environment and by preventing quick temperature changes e.g. by drafts. ABS print especially benefit from both a lower temperature difference between the heated printer bed and the environment because the material shrinks more than PLA when cooling down, which leads to warping and splitting of prints. Many enclosures are heated to 50-70 degree Celsius, but this current version is unheated and only inherently heats up to slightly over 30 degr.C. An enclosure for the previous Rostock model  by Raymond Ma (http://forum.seemecnc.com/viewtopic.php?f=35&amp;t=5695 and https://groups.google.com/forum/#!topic/deltabot/eobq16FVPTA) that inspired me to build this version, uses an incandescent light bulb to heat the enclosure and moves the extruder to the outside of the printer. Please share if you implement further improvements for this enclosure. My design files can be seen and modified online in the Onshape project: https://cad.onshape.com/documents/d590c2db52ca428e97d68baa/w/b00a0e533d044792ac7fa99f/e/468f1fb1db0449e6a87a3a9b.</long_description>
+    <notes>Legal warning: There is a USA patent on 3D printer enclosures held by Stratasys (attached as PDF). While the patent is more or less explicitly refering to non-delta 3D printers, it is in your responsibility to ensure that you hold the legal rights to make or distribute the files or instructions that I publish under an open source hardware licence here.</notes>
+    <license>CERN Open Hardware License</license>
+    <media>
+      <file url="./././././usdata/Enclosure_mediumImg.jpg" />
+      <file url="./././././usdata/engraved_panel_and_door.jpg" />
+      <file url="./././././usdata/3dprintedparts.jpg" />
+      <file url="./././././usdata/Assembly_TopBracket (7).jpg" />
+      <file url="./././././usdata/Assembly_BottomBracket (4).jpg" />
+      <file url="./././././usdata/doorknob (2).jpg" />
+      <file url="./././././usdata/doorknob.jpg" />
+      <file url="./././././usdata/hinge .jpg" />
+      <file url="./././././usdata/hinge (2).jpg" />
+    </media>
+    <assembly_instruction>
+      <step>
+        <description>Attach bottom brackets to the aluminium rails and fix with two printed pins each</description>
+        <media>
+          <file url="./././././usdata/Bottom_Brackets.jpg" />
+          <file url="./././././usdata/Assembly_BottomBracket (1).jpg" />
+          <file url="./././././usdata/Assembly_BottomBracket (3).jpg" />
+          <file url="./././././usdata/0-Assembly_BottomBracket (4).jpg" />
+        </media>
+        <component quantity="3" id="161257434" />
+      </step>
+      <step>
+        <description>Attach top brackts at the top of the fixing of the aluminium extrusions by carefully pressing the flexible long extrusions of the brackets apart and pusing them onto the fixing side sheets (below the screw). Push them all the way in before lifting them up. They will snap into the gap at the top of the fixing side sheets to keep them in place and prevent them from slipping down the aluminium profile. They are later further stabilised by the attached side panels, the weight of which is caried by the bottom brackets.</description>
+        <media>
+          <file url="./././././usdata/Top_Brackets.jpg" />
+          <file url="./././././usdata/Assembly_TopBracket (1).jpg" />
+          <file url="./././././usdata/Assembly_TopBracket (2).jpg" />
+          <file url="./././././usdata/Assembly_TopBracket (3).jpg" />
+          <file url="./././././usdata/Assembly_TopBracket (4).jpg" />
+          <file url="./././././usdata/Assembly_TopBracket (5).jpg" />
+          <file url="./././././usdata/Assembly_TopBracket (6).jpg" />
+        </media>
+      </step>
+      <step>
+        <description>Fix acylic panels to the holder brackets with the M6 screws and washers in the following places: One door-panel in the front (the larger rimm pointing up) with the engraved small panel to the left and the small panel with spare holes to the right. Mount the other door on the side with the extruder mount (the right side of the printer) to be able to push the filament in and out (this is the same door but mounted the other way round, so that the hinges point away from the front and the door knob is upside down). The left and back panel are plain. The last panel will probably be a very tight fit.
+I recommend to wear gloves during the assembly to avoid fingerprints on the panels.
+The side panels might bend slightly to the outside and expose a gap between them. This is ok and it is important that they push against brackets so that no gair gap is left. Find someone to help you to push the panels together while you tape down the side once with "scotch magic tape". This way the panels keep together nicely, provide extra stability to the doors and the air-gaps are closed.
+
+Note: If differnent washers are needed to compensate for tolerances with the printer/brackets/panels, there is a asymmetric washer version as part of the onshape project, that can be downloaded here: https://cad.onshape.com/documents/d590c2db52ca428e97d68baa/w/b00a0e533d044792ac7fa99f/e/1b070b78c81249d3aee0cdc5</description>
+        <media>
+          <file url="./././././usdata/0-engraved_panel_and_door.jpg" />
+          <file url="./././././usdata/side_panel_holes_and_door.jpg" />
+          <file url="./././././usdata/panel_gap_closing.jpg" />
+          <file url="./././././usdata/0-doorknob.jpg" />
+          <file url="./././././usdata/door_knob_inverted.jpg" />
+        </media>
+        <component quantity="1" id="1255639241" />
+      </step>
+      <step>
+        <description>If you have already added a blowing fan to your printer for PLA prints, make sure to move it to the side of the printing head that points towards the extruder and the enclosure door. Because the blower sticks out far from the head, it restricts the usable print bed size much more than the enclosure would on it's own. Because of the easy magnetic snapper door mechanism, the printer head  will easily be able to push the door open (at least in my implementation) if the blower fan runs into the side panel. See pictures for an estimate of the usable print bed size with the assebled enclosure.</description>
+        <media>
+          <file url="./././././usdata/Fan_Holder_and_size_adjustment (2).jpg" />
+          <file url="./././././usdata/Fan_Holder_and_size_adjustment (1).jpg" />
+          <file url="./././././usdata/Fan_Holder_and_size_adjustment (3).jpg" />
+          <file url="./././././usdata/Fan_Holder_and_size_adjustment (4).jpg" />
+          <file url="./././././usdata/Fan_Holder_and_size_adjustment (5).jpg" />
+          <file url="./././././usdata/Fan_Holder_and_size_adjustment (6).jpg" />
+          <file url="./././././usdata/Fan_Holder_and_size_adjustment (7).jpg" />
+        </media>
+      </step>
+    </assembly_instruction>
+    <author id="2144767450" />
+    <function id="161257434">
+      <description>Holder brackets for the acrylic enclosure panels</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="brick" id="1670344648" />
+    </function>
+    <function id="423113059">
+      <description />
+      <designator>door parts</designator>
+      <quantity>1</quantity>
+      <implementation type="brick" id="1760371499" />
+    </function>
+    <function id="1255639241">
+      <description />
+      <designator>enclosure panels</designator>
+      <quantity>1</quantity>
+      <implementation type="brick" id="394150710" />
+    </function>
+    <function id="1792923515">
+      <description>Patent (for information only)</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="297624449" />
+    </function>
+    <function id="1882667671">
+      <description>add-ons</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="brick" id="482911601" />
+    </function>
+    <instruction name="">
+      <step>
+        <description />
+        <media>
+          <file url="././././usdata/1-heat-test.jpg" />
+          <file url="././././usdata/2-heat-test (1).jpg" />
+          <file url="././././usdata/2-heat-test (3).jpg" />
+          <file url="././././usdata/2-heat-test (2).jpg" />
+          <file url="././././usdata/0-heat-test results.jpg" />
+        </media>
+      </step>
+    </instruction>
+  </brick>
+  <brick id="1670344648">
+    <name>Enclosure panel fixings</name>
+    <abstract>3D printed top and bottom bracket pair with M6 srew inserts and strain relieve washers</abstract>
+    <long_description />
+    <notes>Three of these bracket pairs are needed to finish the enclosure.</notes>
+    <license />
+    <media>
+      <file url="./././././usdata/2015-10-20_164044.png" />
+      <file url="./././././usdata/2015-10-20_164525.png" />
+      <file url="./././././usdata/2015-10-20_164612.png" />
+      <file url="./././././usdata/0-Top Bracket (1).png" />
+      <file url="./././././usdata/Top Bracket (2).png" />
+      <file url="./././././usdata/2015-10-20_163648.png" />
+    </media>
+    <assembly_instruction>
+      <step>
+        <description>Print the M6 stress release washers and fit on M6 screws.</description>
+        <media>
+          <file url="./././././usdata/0-3dprintedparts.jpg" />
+          <file url="./././././usdata/washer_on_M6_screw.jpg" />
+        </media>
+        <component quantity="1" id="455131286" />
+      </step>
+      <step>
+        <description>Print the Bottom bracket out of PLA (to avoid warping) plus two stoppers and the top bracket (here out ot ABS, PLA probably works, too, if it allows for enough flexibility for the top bracket extrusions).</description>
+        <media>
+          <file url="./././././usdata/BottomBracket (1).jpg" />
+          <file url="./././././usdata/BottomBracket (2).jpg" />
+          <file url="./././././usdata/TopBracket (1).jpg" />
+          <file url="./././././usdata/TopBracket (2).jpg" />
+        </media>
+        <component quantity="1" id="789203949" />
+        <component quantity="1" id="742341366" />
+      </step>
+      <step>
+        <description>Optional: Print the test pice for the M6 heat insert and practise the assembly with the insertion of the brass insert with a soldering iron.</description>
+        <media>
+          <file url="./usdata/Test_hole.jpg" />
+          <file url="./usdata/soldering_iron.jpg" />
+        </media>
+        <component quantity="1" id="1101731545" />
+      </step>
+      <step>
+        <description>Insert the M6 heat inserts into the four predefined holes per bracket. For this purpose, heat a soldering iron to a temperature above the extruder temperature used for the print of the respective material (here ~300 degr.C). Pick up a heat insert with the iron and gently press against the hole opening of the bracket. After a few seconds, when the insert has heated up sufficiently, it will start to melt the plastic around it and sink into the hole. Gently press until the insert sits slighly below the surface of the print, so that the plastic and not the metal is touching the acylic panels later. Guide the insert slightly to avoid a tilt of the threaded insert (or the other way round: don't press it against one of the sides too much while the plastic is hot). Optional: Try the test piece in the following custom instruction first.</description>
+        <media>
+          <file url="./././././usdata/BottomBracket (3).jpg" />
+          <file url="./././././usdata/BottomBracket (4).jpg" />
+          <file url="./././././usdata/BottomBracket (5).jpg" />
+          <file url="./././././usdata/TopBracket (3).jpg" />
+          <file url="./././././usdata/TopBracket (4).jpg" />
+          <file url="./././././usdata/TopBracket (5).jpg" />
+        </media>
+        <component quantity="4" id="1815250806" />
+      </step>
+      <step>
+        <description>Possible improvement of the design:
+The brackets turned out still a little to small or too close to the aluminium extrusions to match the laser-cut top and bottom planes of the 3D printer perfectly. This means the current side panels (that probably don't have to be size-modified to fix the issue) bend slightly around the planes which gives them a very tight fit to enclose the printer volume and wich causes very small air gaps, as shown in the pictures. (1) are the 4mm thick acrylic enclosure side panels, viewed from the top; (2) are the 3D printed (here top-) brackets; (3) is the laser-cut (here top) plane as part of the Rostock Max V2 kit from SeeMeCNC.
+Please share your possible improvements on the top and bottom bracket designs (here again the onshape link: https://cad.onshape.com/documents/d590c2db52ca428e97d68baa/w/b00a0e533d044792ac7fa99f/e/468f1fb1db0449e6a87a3a9b.). This design works, so I did not go through another iteration for this project.</description>
+        <media>
+          <file url="./././././usdata/0-improvements (1).jpg" />
+          <file url="./././././usdata/0-improvements (2).jpg" />
+        </media>
+      </step>
+    </assembly_instruction>
+    <function id="789203949">
+      <description>Bottom bracket</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="1667243737" />
+      <implementation type="physical_part" id="798614183" />
+    </function>
+    <function id="742341366">
+      <description>Top Bracket</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="1336854021" />
+    </function>
+    <function id="1815250806">
+      <description>M6 heat insert</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="686920999" />
+    </function>
+    <function id="455131286">
+      <description>Mounting screws for panels</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="1125468525" />
+      <implementation type="physical_part" id="1098057383" />
+    </function>
+    <function id="1101731545">
+      <description>Test part heat insert M6</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="330203536" />
+    </function>
+  </brick>
+  <brick id="394150710">
+    <name>Transparent enclosure panels</name>
+    <abstract>six laser cut 4mm acrylic sheets with two doors to enclose the printing area</abstract>
+    <long_description />
+    <notes />
+    <license />
+    <media>
+      <file url="./././././usdata/0-side_panel_holes_and_door.jpg" />
+      <file url="./././././usdata/1-engraved_panel_and_door.jpg" />
+    </media>
+    <assembly_instruction>
+      <step>
+        <description>The designs are grouped into pairs of a small and a large panel each. Cut out all panels or modify the provided inkscape SVG files first. Both doors are identical, so instead of cutting the engraved design (e.g. when the user time for the laser cutter is limited), simply make two doors with the side panel with spare holes. For the assembly the door only has to be turned differently. For good engraving results, see manufacturing step of panel with engraving for extra tips.</description>
+        <media />
+      </step>
+    </assembly_instruction>
+    <function id="1944576141">
+      <description>Enclosure panels</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="255411926" />
+      <implementation type="physical_part" id="829127372" />
+      <implementation type="physical_part" id="492165908" />
+    </function>
+  </brick>
+  <brick id="1760371499">
+    <name>Door parts set</name>
+    <abstract>set consisting of three 3d printed hinges and one printed magnetic door snapper knob</abstract>
+    <long_description />
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction>
+      <step>
+        <description>I recommend mounting the door parts after the acrylic sheets are mounted on the 3D printer.</description>
+        <media>
+          <file url="./././././usdata/hinge_assembly (2).jpg" />
+          <file url="./././././usdata/hinge_assembly (1).jpg" />
+        </media>
+      </step>
+    </assembly_instruction>
+    <function id="794188998">
+      <description />
+      <designator />
+      <quantity>3</quantity>
+      <implementation type="brick" id="794154344" />
+    </function>
+    <function id="650033750">
+      <description />
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="brick" id="2019275653" />
+    </function>
+  </brick>
+  <brick id="794154344">
+    <name>3D printed hinge</name>
+    <abstract>3D printed hinge with metal dowel pin, M3 screw fixings and strain relieve washer structure</abstract>
+    <long_description />
+    <notes />
+    <license />
+    <media>
+      <file url="./././././usdata/0-hinge .jpg" />
+      <file url="./././././usdata/hinge_assembled2.jpg" />
+      <file url="./././././usdata/0-hinge (2).jpg" />
+    </media>
+    <assembly_instruction>
+      <step>
+        <description>Print the hinge and try to fit the dowl pin to both sides seperately and remove print impurities with a razor blade if necessary. Then insert to connect the two halfs of the hinge, while the closed end is pointing down to stop the poin from falling out later.</description>
+        <media>
+          <file url="./././././usdata/hinge1.jpg" />
+        </media>
+        <component quantity="1" id="1409057570" />
+      </step>
+      <step>
+        <description>Insert the M3 nuts into the washers (tight fit - press hard). Ready for assembly on the mounted acylic panels!</description>
+        <media>
+          <file url="./././././usdata/washers_hinge.jpg" />
+          <file url="./././././usdata/Parts_hinge.jpg" />
+        </media>
+        <component quantity="4" id="246176273" />
+        <component quantity="2" id="1849489937" />
+      </step>
+      <step>
+        <description>A small plastic step was added to both sides of the hinge design to enable a good print of the curvature with ABS (avoiding too steep overhangs). If these steps cause a problem with closing and opening the acylic doors after assembly, cut them smooth with a razor blade like I did (result shown in the image).</description>
+        <media>
+          <file url="./././././usdata/hinge (3).jpg" />
+        </media>
+      </step>
+    </assembly_instruction>
+    <function id="1409057570">
+      <description>Hinge</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="500541211" />
+      <implementation type="physical_part" id="2092747198" />
+      <implementation type="physical_part" id="24263995" />
+    </function>
+    <function id="1849489937">
+      <description>Strain relieve bar</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="433441006" />
+    </function>
+    <function id="246176273">
+      <description>M3 scews and nuts for assembly</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="405409125" />
+      <implementation type="physical_part" id="500541211" />
+    </function>
+  </brick>
+  <brick id="2019275653">
+    <name>Magnetic door snapper</name>
+    <abstract>3D printed door knob and counter part with magnets and washers</abstract>
+    <long_description />
+    <notes />
+    <license />
+    <media>
+      <file url="./././././usdata/1-doorknob.jpg" />
+      <file url="./././././usdata/0-door_knob_inverted.jpg" />
+      <file url="./././././usdata/0-doorknob (2).jpg" />
+      <file url="./././././usdata/doorknob (1).jpg" />
+      <file url="./././././usdata/Parts_for_handle (1).jpg" />
+    </media>
+    <assembly_instruction>
+      <step>
+        <description>Print the door knob and counter part (do not enter magnets yet), and sink the m3 heat inserts into the predefined holes in the print with a hot soldering iron (just like it was done for the M6 inserts in the enclosure brackets). Make sure they sit slightly below the surface of the print, so the plastic touches the acylic sheets instead of the metal.</description>
+        <media>
+          <file url="./././././usdata/Parts_for_handle (2).jpg" />
+          <file url="./././././usdata/Parts_for_handle (3).jpg" />
+          <file url="./././././usdata/Handle_assembly (1).jpg" />
+          <file url="./././././usdata/Handle_assembly (2).jpg" />
+        </media>
+        <component quantity="1" id="913146523" />
+        <component quantity="1" id="737486005" />
+        <component quantity="4" id="2082234097" />
+      </step>
+      <step>
+        <description>Push the magnets into the holes and test the snapping of the two door parts.</description>
+        <media>
+          <file url="./././././usdata/Handle_assembly (3).jpg" />
+        </media>
+        <component quantity="2" id="260402058" />
+      </step>
+      <step>
+        <description>I recommend to assemble the snapper on the acylic doors after they have been mounted on the 3D printer, unsing the M3 screws (10mm or up to several mm longer) and the printed strain release washers.</description>
+        <media>
+          <file url="./././././usdata/Handle_assembly (4).jpg" />
+          <file url="./././././usdata/Handle_assembly (5).jpg" />
+        </media>
+        <component quantity="4" id="670111055" />
+      </step>
+    </assembly_instruction>
+    <function id="913146523">
+      <description>Door knob</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="508013976" />
+    </function>
+    <function id="737486005">
+      <description>Door counter magent holder</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="1226458112" />
+    </function>
+    <function id="670111055">
+      <description>Screws and strain relieve washers</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="141642772" />
+      <implementation type="physical_part" id="1101652874" />
+    </function>
+    <function id="260402058">
+      <description>Door-snapper magnets</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="727618408" />
+    </function>
+    <function id="2082234097">
+      <description>M3 heat inserts to allow usage of M3 srews to mount prints</description>
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="physical_part" id="686920999" />
+    </function>
+  </brick>
+  <brick id="482911601">
+    <name>Possible add-ons</name>
+    <abstract>Extra holes were added to a small side panel to allow for extensions and the spool holder could be improved.</abstract>
+    <long_description />
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction>
+      <step>
+        <description>Spare holes: three spare clearence holes to put through M3 srews were added to one of the small side panels of the enclosure in order to allow the addition of 3D printed holders for e.g. either usefol tools or a webcam holder for the camera we use in conjunction with octoprint.</description>
+        <media>
+          <file url="./././././usdata/0-spare_holes.jpg" />
+          <file url="./././././usdata/0-camera.jpg" />
+          <file url="./././././usdata/0-tools.jpg" />
+          <file url="./././././usdata/0-spare_holes_only.png" />
+        </media>
+      </step>
+      <step>
+        <description>We experienced one or more print fails due to the filament jumping off a spool and getting stuck after retraction moves. Our group solved this temporarily with two recycled card boards stuck onto the lasercut holders and fixed with a large paper clip. However, a design for a small (prettier) spool enclosure with an integrated compartment to add silica gel in order to keep the humidity down would be nice. An alternative route might be to print a more round spool holder pin that does not cause the filament to get stuck even after jumping off in occasional cases.</description>
+        <media>
+          <file url="./././././usdata/0-spool (1).jpg" />
+          <file url="./././././usdata/0-spool (2).jpg" />
+        </media>
+      </step>
+    </assembly_instruction>
+  </brick>
+  <author id="2144767450">
+    <name>Tobias Wenzel</name>
+    <email>tw347@cam.ac.uk</email>
+    <orcid>0000-0001-8443-1315</orcid>
+    <affiliation>University of Cambridge, Cavendish Laboratory</affiliation>
+  </author>
+</docubricks>
